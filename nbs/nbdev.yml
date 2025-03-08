@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_prueba"
+  site-url: "https://AzulushkaBravo.github.io/nbdev_prueba"
+  description: "Repostorio prueba"
+  repo-branch: main
+  repo-url: "https://github.com/AzulushkaBravo/nbdev_prueba"
