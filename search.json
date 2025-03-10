@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev_prueba",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "nbdev_prueba"
+    ]
+  },
+  {
+    "objectID": "index.html#developer-guide",
+    "href": "index.html#developer-guide",
+    "title": "nbdev_prueba",
+    "section": "Developer Guide",
+    "text": "Developer Guide\nIf you are new to using nbdev here are some useful pointers to get you started.\n\nInstall nbdev_prueba in Development mode\n# make sure nbdev_prueba package is installed in development mode\n$ pip install -e .\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to nbdev_prueba\n$ nbdev_prepare",
+    "crumbs": [
+      "nbdev_prueba"
+    ]
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "nbdev_prueba",
+    "section": "Usage",
+    "text": "Usage\n\nInstallation\nInstall latest from the GitHub repository:\n$ pip install git+https://github.com/AzulushkaBravo/nbdev_prueba.git\nor from conda\n$ conda install -c AzulushkaBravo nbdev_prueba\nor from pypi\n$ pip install nbdev_prueba\n\n\nDocumentation\nDocumentation can be found hosted on this GitHub repository’s pages. Additionally you can find package manager specific guidelines on conda and pypi respectively.",
+    "crumbs": [
+      "nbdev_prueba"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev_prueba",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "nbdev_prueba"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "#!pip install nbdev\n\n\n\nsaludo\n\n saludo ()\n\nImprime Hola\n\n\n\nfoo\n\n foo ()\n\n\n\n\nsaludo\n\n saludo ()\n\nImprime Hola\n\nsaludo()\n\nHola!\n\n\n\nsaludo_a('Raul')\n\nHola! Raul\nEspero que te encuentres bien\n\n\n\n\n\nsaludo_a\n\n saludo_a (to)\n\nImprime hola a un nombre",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
