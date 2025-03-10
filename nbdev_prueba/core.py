@@ -5,7 +5,7 @@
 # %% auto 0
 __all__ = ['saludo', 'saludo_a', 'foo']
 
-# %% ../nbs/00_core.ipynb 3
+# %% ../nbs/00_core.ipynb 4
 def saludo():
     """Imprime Hola"""
     print('Hola!')
@@ -25,16 +25,16 @@ saludo_a('Raul')
 
 show_doc(saludo_a)
 
-# %% ../nbs/00_core.ipynb 4
+# %% ../nbs/00_core.ipynb 5
 def foo(): pass
 
-# %% ../nbs/00_core.ipynb 5
+# %% ../nbs/00_core.ipynb 6
 def saludo():
     """Imprime Hola"""
     print('Hola!')
     return
 
-# %% ../nbs/00_core.ipynb 7
+# %% ../nbs/00_core.ipynb 8
 def saludo_a(to):
     """Imprime hola a un nombre"""
     print('Hola!', to)
